@@ -6,8 +6,8 @@
 
 
 
-> - `21st March 2022` : Start Date
-> - `19th Sept 2022` : Expected End Date
+> - `21st March 2023` : Start Date
+> - `19th Sept 2023` : Expected End Date
 > - `180 days` : Goal
 
 ---
